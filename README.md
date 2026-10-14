@@ -5,7 +5,7 @@
 This repository builds a rigorous, reproducible benchmark for client deletion in federated learning (FL). The core objective is not to claim that Differential Privacy (DP) perfectly deletes data, nor is it to inflate exploratory metrics to claim "State-of-the-Art" (SOTA). 
 
 The goal is sharper and more scientifically grounded: **To compare DP-only model release, explicit federated unlearning baselines, and exact retraining references under a privacy contract where the unit of privacy matches the unit of the deletion request.**
-
+ 
 ---
 
 ## 🚀 Phase 2 Major Upgrades & Current Status
